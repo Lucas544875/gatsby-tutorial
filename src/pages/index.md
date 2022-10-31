@@ -7,6 +7,7 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaaaaaaaaaaaaaaaaaaaaaaaldy
   description: >
+    we are now on published
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
